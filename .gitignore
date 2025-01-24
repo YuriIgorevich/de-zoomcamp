@@ -1,0 +1,7 @@
+/.venv
+/.vscode
+/homework
+/test
+commands.txt
+
+.ipynb_checkpoints/

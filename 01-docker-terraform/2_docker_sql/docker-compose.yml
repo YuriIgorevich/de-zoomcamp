@@ -1,6 +1,6 @@
 services:
   # Posgres DB and Admin
-  pgdatabase:
+  pgdb:
     container_name: pgdatabase
     image: postgres:16
     environment:
